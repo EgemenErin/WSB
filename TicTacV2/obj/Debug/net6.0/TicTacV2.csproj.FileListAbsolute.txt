@@ -1,0 +1,15 @@
+/Users/egemenerin/Projects/TicTacV2/TicTacV2/obj/Debug/net6.0/TicTacV2.csproj.AssemblyReference.cache
+/Users/egemenerin/Projects/TicTacV2/TicTacV2/obj/Debug/net6.0/TicTacV2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egemenerin/Projects/TicTacV2/TicTacV2/obj/Debug/net6.0/TicTacV2.AssemblyInfoInputs.cache
+/Users/egemenerin/Projects/TicTacV2/TicTacV2/obj/Debug/net6.0/TicTacV2.AssemblyInfo.cs
+/Users/egemenerin/Projects/TicTacV2/TicTacV2/obj/Debug/net6.0/TicTacV2.csproj.CoreCompileInputs.cache
+/Users/egemenerin/Projects/TicTacV2/TicTacV2/bin/Debug/net6.0/TicTacV2
+/Users/egemenerin/Projects/TicTacV2/TicTacV2/bin/Debug/net6.0/TicTacV2.deps.json
+/Users/egemenerin/Projects/TicTacV2/TicTacV2/bin/Debug/net6.0/TicTacV2.runtimeconfig.json
+/Users/egemenerin/Projects/TicTacV2/TicTacV2/bin/Debug/net6.0/TicTacV2.dll
+/Users/egemenerin/Projects/TicTacV2/TicTacV2/bin/Debug/net6.0/TicTacV2.pdb
+/Users/egemenerin/Projects/TicTacV2/TicTacV2/obj/Debug/net6.0/TicTacV2.dll
+/Users/egemenerin/Projects/TicTacV2/TicTacV2/obj/Debug/net6.0/refint/TicTacV2.dll
+/Users/egemenerin/Projects/TicTacV2/TicTacV2/obj/Debug/net6.0/TicTacV2.pdb
+/Users/egemenerin/Projects/TicTacV2/TicTacV2/obj/Debug/net6.0/TicTacV2.genruntimeconfig.cache
+/Users/egemenerin/Projects/TicTacV2/TicTacV2/obj/Debug/net6.0/ref/TicTacV2.dll
